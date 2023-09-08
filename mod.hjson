@@ -2,13 +2,13 @@
 displayName: "first mod"
 
 #the internal name of your mod
-name: "first-mod-sodapop"
+name: "first-mod"
 
 #your name
 author: "sodapop"
 
 #the fully qualified main class of the mod
-main: "idk-downloadable.firstMod"
+main: "idk.firstMod"
 
 #the mod description as seen in the mod dialog
 description: "my first mod so far"
