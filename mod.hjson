@@ -8,7 +8,7 @@ name: "first-mod-sodapop"
 author: "sodapop"
 
 #the fully qualified main class of the mod
-main: "Mods.firstMod"
+main: "Mods.first-mod-sodapop"
 
 #the mod description as seen in the mod dialog
 description: "my first mod so far"
